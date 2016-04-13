@@ -1,0 +1,592 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 248,
+          "y": 17,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"center\">Miami University<br></div><div align=\"left\"><div align=\"center\">ACM<br></div></div>",
+          "size": 72,
+          "selected": false,
+          "skewX": 0,
+          "skewY": 0
+        },
+        {
+          "src": "http://i.imgur.com/GdVRSjy.png",
+          "type": "Image",
+          "x": 404,
+          "y": 352,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "customClasses": ""
+        },
+        {
+          "src": "https://lh3.googleusercontent.com/E4UjLg_CtHlcAHKQlRX044ZtRERwWPqgD0VLL2TLo3LAGH8hZssK84SEwyNSsLFsfdO2=w300",
+          "type": "Image",
+          "x": 50,
+          "y": 383,
+          "scale": {
+            "x": 1.18,
+            "y": 1.18,
+            "width": 354,
+            "height": 354
+          },
+          "imageType": "COM/E4UJLG_CTHLCAHKQLRX044ZTRERWWPQGD0VLL2TLO3LAGH8HZSSK84SEWYNSSLFSFDO2=W300",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 411,
+          "y": 197,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Matt DePero<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 122,
+          "y": 269,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "Amazon Echo Development",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 180,
+      "y": 180,
+      "background": "bg-solid-smoke"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/dbyURq1.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 375,
+          "scale": {
+            "x": 0.7496339677891655,
+            "y": 0.7496339677891655,
+            "width": 1024,
+            "height": 392.8081991215227
+          },
+          "imageType": "JPG",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 163,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "\"Amazon Echo is a hands-free speaker <br><div align=\"center\">you control with your voice.\"</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 232,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "\"Seven microphones that use beam forming technology <br>so it can hear you from across the room\"",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 247,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 176,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "Great speaker that can easily fill a large room of people<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 321,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "Can't be used for phone calls...<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://developer.amazon.com/public/binaries/content/gallery/developerportalpublic/solutions/alexa/dp_image_service_02.png",
+          "type": "Image",
+          "x": 718,
+          "y": 15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 51,
+          "y": 74,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 104,
+          "text": "What is Alexa?<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 434,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 42,
+          "text": "<font>\"Echo connects to the Alexa Voice Service <br>to play music, provide information, news, <br>sports scores, weather, and more—instantly\"</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/pDRubqQ.jpg",
+          "type": "Image",
+          "x": -1,
+          "y": 375,
+          "scale": {
+            "x": 1.0250000000000001,
+            "y": 1.0250000000000001,
+            "width": 1025.0000000000002,
+            "height": 393.6
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://developer.amazon.com/public/binaries/content/gallery/developerportalpublic/solutions/alexa/dp_image_kit_02.png",
+          "type": "Image",
+          "x": 800,
+          "y": 11,
+          "scale": {
+            "x": 0.7651006711409396,
+            "y": 0.7651006711409396,
+            "width": 228,
+            "height": 195.86577181208054
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 39,
+          "y": 56,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 83,
+          "text": "Alexa Skills Kit (ASK)<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 39,
+          "y": 207,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "\"a collection of self-service APIs and tools <br>that make it fast and easy for you to create <br>new voice-driven capabilities for Alexa. \"<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1020,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 113,
+          "text": "How Does It Work?<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/DN7LABO.png",
+          "type": "Image",
+          "x": 446,
+          "y": 290,
+          "scale": {
+            "x": 0.8285714285714286,
+            "y": 0.8285714285714286,
+            "width": 638,
+            "height": 478.91428571428577
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1300,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/2000px-AmazonWebservices_Logo.svg.png",
+          "type": "Image",
+          "x": 38,
+          "y": 519,
+          "scale": {
+            "x": 0.1615,
+            "y": 0.1615,
+            "width": 323,
+            "height": 129.20000000000002
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://pbs.twimg.com/profile_images/534938315338698753/Q4cA4Cqa.png",
+          "type": "Image",
+          "x": 309,
+          "y": 543,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 50 50\" preserveAspectRatio=\"none\"><rect width=\"50\" height=\"50\"/></svg>",
+          "type": "Shape",
+          "x": 705,
+          "y": 211,
+          "scale": {
+            "width": 279.6614113232701,
+            "height": 280.0359631278
+          },
+          "selected": false,
+          "fill": "#000930"
+        },
+        {
+          "TextBox": {},
+          "x": 737,
+          "y": 504,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div align=\"center\">Alexa Services<br></div>",
+          "selected": false
+        },
+        {
+          "src": "http://www.clker.com/cliparts/y/e/S/6/g/x/web-server-md.png",
+          "type": "Image",
+          "x": 77,
+          "y": 50,
+          "scale": {
+            "x": 0.738831615120275,
+            "y": 0.738831615120275,
+            "width": 215,
+            "height": 220.17182130584195
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://www.clker.com/cliparts/j/D/I/B/U/C/double-arrow-hi.png",
+          "type": "Image",
+          "x": 314,
+          "y": 201,
+          "scale": {
+            "x": 0.5983333333333334,
+            "y": 0.5983333333333334,
+            "width": 359.00000000000006,
+            "height": 109.495
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0.34,
+          "skewY": -0.09
+        },
+        {
+          "src": "http://www.clker.com/cliparts/j/D/I/B/U/C/double-arrow-hi.png",
+          "type": "Image",
+          "x": 333,
+          "y": 392,
+          "scale": {
+            "x": 0.5916666666666668,
+            "y": 0.5916666666666668,
+            "width": 355.00000000000006,
+            "height": 108.27500000000002
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": -0.58,
+          "skewY": 0.16
+        },
+        {
+          "TextBox": {},
+          "x": 397,
+          "y": 327,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Web API<br>",
+          "selected": false
+        },
+        {
+          "src": "https://developer.amazon.com/public/binaries/content/gallery/developerportalpublic/solutions/alexa/dp_image_kit_02.png",
+          "type": "Image",
+          "x": 699,
+          "y": 223,
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "width": 298,
+            "height": 256
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "markdown": "",
+      "x": 1580,
+      "y": 180
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1860,
+      "y": 460
+    }
+  ],
+  "background": "bg-solid-smoke",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 248,
+        "y": 17,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<div align=\"center\">Miami University<br></div><div align=\"left\"><div align=\"center\">ACM<br></div></div>",
+        "size": 72,
+        "selected": false,
+        "skewX": 0,
+        "skewY": 0
+      },
+      {
+        "src": "http://i.imgur.com/GdVRSjy.png",
+        "type": "Image",
+        "x": 404,
+        "y": 352,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "PNG",
+        "selected": false,
+        "customClasses": ""
+      },
+      {
+        "src": "https://lh3.googleusercontent.com/E4UjLg_CtHlcAHKQlRX044ZtRERwWPqgD0VLL2TLo3LAGH8hZssK84SEwyNSsLFsfdO2=w300",
+        "type": "Image",
+        "x": 50,
+        "y": 383,
+        "scale": {
+          "x": 1.18,
+          "y": 1.18,
+          "width": 354,
+          "height": 354
+        },
+        "imageType": "COM/E4UJLG_CTHLCAHKQLRX044ZTRERWWPQGD0VLL2TLO3LAGH8HZSSK84SEWYNSSLFSFDO2=W300",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 411,
+        "y": 197,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "Matt DePero<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 122,
+        "y": 269,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 68,
+        "text": "Amazon Echo Development",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 180,
+    "y": 180,
+    "background": "bg-solid-smoke"
+  },
+  "fileName": "amazon echo",
+  "surface": "bg-custom-009ee1",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/\n.strut-surface http://strut.io/editor/#",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": [
+      {
+        "klass": "bg-custom-009ee1",
+        "style": "#009ee1"
+      }
+    ]
+  },
+  "overviewX": 1020,
+  "overviewY": 320
+}
